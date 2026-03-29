@@ -1,5 +1,8 @@
 Uploading code as I explore the platform.
 
+- ART OF FIGHTING PROTOTYPE
+- PICO DIABLO PROTOTYPE
+- PICO JAMMERS v0.0.1
 - PICO INTERNATIONAL SOCCER v.0.0.1
 
   
