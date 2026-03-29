@@ -8,11 +8,11 @@ Uploading code as I explore the platform.
 
 ![pic1](https://i.imgur.com/0QcowcK.png "Screenshot 1")
   
-- PICO JAMMERS v0.0.1
+- PICO JAMMERS (prototype)
 
 ![pic1](https://i.imgur.com/M0Vn23y.png "Screenshot 1")
   
-- PICO INTERNATIONAL SOCCER v.0.0.1
+- PICO INTERNATIONAL SOCCER (prototype)
 
 ![pic1](https://i.imgur.com/VXVCflo.png "Screenshot 1")
 
